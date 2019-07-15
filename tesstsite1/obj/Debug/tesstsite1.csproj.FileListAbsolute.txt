@@ -1,0 +1,125 @@
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\ApplicationInsights.config
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\roslyn\csc.exe
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\roslyn\csc.exe.config
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\roslyn\csc.rsp
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\roslyn\csi.exe
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\roslyn\csi.rsp
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\roslyn\System.AppContext.dll
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\roslyn\System.Collections.Immutable.dll
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\roslyn\System.Diagnostics.StackTrace.dll
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\roslyn\System.IO.FileSystem.dll
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\roslyn\System.Reflection.Metadata.dll
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\roslyn\vbc.exe
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\roslyn\vbc.exe.config
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\roslyn\vbc.rsp
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\roslyn\VBCSCompiler.exe
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\roslyn\VBCSCompiler.exe.config
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\tesstsite1.dll.config
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\tesstsite1.dll
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\tesstsite1.pdb
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\Antlr3.Runtime.dll
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\AspNet.ScriptManager.bootstrap.dll
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\AspNet.ScriptManager.jQuery.dll
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\Microsoft.AI.Agent.Intercept.dll
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\Microsoft.AI.DependencyCollector.dll
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\Microsoft.AI.PerfCounterCollector.dll
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\Microsoft.AI.Web.dll
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\Microsoft.AI.WindowsServer.dll
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\Microsoft.ApplicationInsights.dll
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\Microsoft.AspNet.FriendlyUrls.dll
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\Microsoft.ScriptManager.MSAjax.dll
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\Microsoft.ScriptManager.WebForms.dll
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\Microsoft.Web.Infrastructure.dll
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\Newtonsoft.Json.dll
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\System.Web.Optimization.dll
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\WebGrease.dll
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\System.Web.Optimization.xml
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\Antlr3.Runtime.pdb
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\Microsoft.AspNet.FriendlyUrls.xml
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\Newtonsoft.Json.xml
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\Microsoft.ApplicationInsights.xml
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\Microsoft.AI.DependencyCollector.xml
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\Microsoft.AI.WindowsServer.xml
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\bin\Microsoft.AI.Web.xml
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\obj\Debug\tesstsite1.csprojResolveAssemblyReference.cache
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\obj\Debug\tesstsite1.dll
+d:\che00039526\documents\visual studio 2017\Projects\tesstsite1\tesstsite1\obj\Debug\tesstsite1.pdb
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\ApplicationInsights.config
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\roslyn\csc.exe
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\roslyn\csc.exe.config
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\roslyn\csc.rsp
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\roslyn\csi.exe
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\roslyn\csi.rsp
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\roslyn\System.AppContext.dll
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\roslyn\vbc.exe
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\roslyn\vbc.exe.config
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\roslyn\vbc.rsp
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\roslyn\VBCSCompiler.exe
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\tesstsite1.dll.config
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\tesstsite1.dll
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\tesstsite1.pdb
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\Antlr3.Runtime.dll
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\Microsoft.AI.Web.dll
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\Newtonsoft.Json.dll
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\System.Web.Optimization.dll
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\WebGrease.dll
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\System.Web.Optimization.xml
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\Antlr3.Runtime.pdb
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\Newtonsoft.Json.xml
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\bin\Microsoft.AI.Web.xml
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\obj\Debug\tesstsite1.csprojResolveAssemblyReference.cache
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\obj\Debug\tesstsite1.csproj.CoreCompileInputs.cache
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\obj\Debug\tesstsite1.dll
+C:\Users\cam-c_000\Documents\2. Websites\tesstsite1\tesstsite1\obj\Debug\tesstsite1.pdb
